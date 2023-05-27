@@ -21,8 +21,8 @@
   ---
 
 ### :man_technologist: Sobre Mi :
-Soy una programadora de scripts, soy de latinoamérica
-- :seedling: Exploring Technical Content Writing.
+Soy una programadora de scripts, me gusta la ciberseguridad.
+- :seedling: Aprendiendo nuevas tecnologias.
 - :mailbox:Como contactarme: ![Linkedin Badge](https://img.shields.io/badge/LexaRedTeam-Twitter-lightgrey)
 <div>
     <h2 align="center">Lenguajes y herramientas</h2>
