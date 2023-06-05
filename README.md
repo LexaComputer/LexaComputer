@@ -11,7 +11,7 @@
     </a>
   </div>
   <h1>
-    Hola, Soy Lexa
+    Hi, Im Lexa Computer
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -20,12 +20,12 @@
   
   ---
 
-### :man_technologist: Sobre Mi :
-Soy una programadora de scripts, me gusta la ciberseguridad.
-- :seedling: Aprendiendo nuevas tecnologias.
+### :man_technologist: About me :
+Im a software developer.
+- :seedling: Currently learning Java
 - :mailbox:Como contactarme: ![Linkedin Badge](https://img.shields.io/badge/LexaRedTeam-Twitter-lightgrey)
 <div>
-    <h2 align="center">Lenguajes y herramientas</h2>
+    <h2 align="center">Langs and technologies</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
