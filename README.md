@@ -12,9 +12,9 @@
 
 <br> My name is David. I'm software developer. 
 <br> 🔭 Currently learning Java.
-<br> 🌱 I am passionate about contribuing, being part of a community and open-source projects
+<br> 🌱 I am passionate about contribuing, being part of a community and open-source projects.
 <br> ⚡ I will document the new languages and technologies I learn.
-<br> For more info, you can contact me in my [mail](worldhackingnews@gmail.com)
+<br> For more info, you can contact me in my [mail](worldhackingnews@gmail.com).
 
 **Languages and Tools:**  
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"></code>
