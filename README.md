@@ -31,4 +31,4 @@
 
 ![Lexa Stats](https://github-readme-stats.vercel.app/api?username=LexaComputer&show_icons=true&theme=radical)
 
-⭐️ From [The dark side]()
+⭐️ From [The dark side](https://lexacomputer.github.io)
