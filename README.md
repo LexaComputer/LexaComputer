@@ -7,7 +7,7 @@
   <img align="left" alt="David's Twitter" width="30px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
 </a>
 
-<img align="right" width="370px" alt="GIF" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp" />
+<img align="right" width="330px" alt="GIF" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp" />
 <br>
 
 <br> My name is David. I'm software developer. 
