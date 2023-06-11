@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/lexa-computer-804188272/">
   <img align="left" alt="David's LinkdeIn" width="30px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
 </a>
-<a href="https://twitter.com/emys_alb">
+<a href="https://twitter.com/LexaRedTeam">
   <img align="left" alt="David's Twitter" width="30px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
 </a>
 
